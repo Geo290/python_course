@@ -1,0 +1,5 @@
+"""Decalracion de variables"""
+nombre_curso = "Curso Python"
+nombre1 = "hola"
+NOMBRE_CURSO = "HOLA"
+NomBreCurso = "hola"
